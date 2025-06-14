@@ -1,10 +1,5 @@
 # My blog
 
-2 справи
-
-1) відключити мегого
-2) купити мирі макбук
-
 Useful **mkdocs** plugins:
 
 A powerful documentation framework on top of MkDocs: 
