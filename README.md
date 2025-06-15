@@ -18,3 +18,7 @@ https://squidfunk.github.io/mkdocs-material/
 https://icons8.com/icons/set/characters--style-doodle
 
 <a target="_blank" href="https://icons8.com/icon/5iWNvQRbAKx9/walter-white">Walter White</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+## Deployment
+
+    mkdocs gh-deploy --config-file ../my_blog/mkdocs.yml --remote-branch main
